@@ -6,7 +6,7 @@
 <br>
 <br>
 <br>
-![Gonçalo Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GoncaloGabriel&show_icons=true&theme=onedark)
+![Gonçalo Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GoncaloGabriel&show_icons=true&theme=dark)
 <br>
 <br>
 <br>
