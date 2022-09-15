@@ -10,5 +10,5 @@
 <br>
 <br>
 <br>
-<img src="https://c.tenor.com/cOhgxKZrGqQAAAAC/zoro-one-piece.gif" width="518" height="318.28915662650604" alt="Zoro One Piece GIF - Zoro One Piece Sword GIFs" style="max-width: 518px;">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.giphy.com/sk6yL9EGVeAcE.gif">
 
